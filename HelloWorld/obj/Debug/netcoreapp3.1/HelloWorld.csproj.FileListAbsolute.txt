@@ -1,0 +1,12 @@
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

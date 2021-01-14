@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TkJ7sp2nA0LRWWl4a9DrV6Z84expDteNxI5/8tE7GeK4vYriU9h4UTtEA5QtqW/P6akd3p4OSyLpzsVMn1C+EA==",
+  "success": true,
+  "projectFilePath": "/Users/alexandershvyrev/Desktop/School/My Projects/C# .NET/HelloWorld/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexandershvyrev/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
